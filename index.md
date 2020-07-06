@@ -1,5 +1,3 @@
-# 'Just One Thing' – Change Consulting
-## Leadership, Performance, Resilience
 
 # jekyll-theme-01
 
