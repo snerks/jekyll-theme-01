@@ -1,5 +1,6 @@
-<h1 align="center">'Just One Thing' – Change Consulting</h1>
-<h2 align="center">Leadership, Performance, Resilience</h1>
+# 'Just One Thing' – Change Consulting
+
+## Leadership, Performance, Resilience
 
 # jekyll-theme-01
 
